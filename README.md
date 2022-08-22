@@ -1,1 +1,1 @@
-This was created as an exercise for Springboard's software engineering bootcamp. AJAX and axios are used to manipulate data from Giphy API. 
+This was created as an exercise for Springboard's software engineering bootcamp. AJAX and axios are used to manipulate data from Giphy API. The deployed page can be found here: https://bshaw928.github.io/giphy-party/
